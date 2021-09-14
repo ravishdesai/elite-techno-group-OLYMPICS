@@ -1,9 +1,5 @@
 # Summer-Olympics Data analysis
 ---
-Introduction
-
-
-This assignment is given by Elite Techno Groups , in this i have to analyze following 8 questions.
 
 
 ---
