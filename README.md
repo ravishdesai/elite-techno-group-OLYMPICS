@@ -17,5 +17,5 @@ This assignment is given by Elite Techno Groups , in this i have to analyze foll
 8. Which sport is having most female Gold Medalists? (Top 5).
 ---
 ## Conclusion
-We have analyzed all questions by using python programming language , i have used pandas and matplot.lib library to analyze summer.csv
+I have analyzed all questions by using python programming language , i have used pandas and matplot.lib library to analyze summer.csv
 ,some of question require bar graph to represent in better manner, the whole project is data analysis on summer.csv
